@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "name": "Apartment",
+    "picture": "images/a.jpg",
+    "age": 15000,
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Duplex",
+    "picture": "images/b.jpg",
+    "age": 18000,
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Duplex",
+    "picture": "images/c.jpg",
+    "age": 17000,
+    "breed": "French Bulldog",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Duplex",
+    "picture": "images/a.jpg",
+    "age": 20000,
+    "breed": "Boxer",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Apartment",
+    "picture": "images/c.jpg",
+    "age": 19000,
+    "breed": "French Bulldog",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Apartment",
+    "picture": "images/b.jpg",
+    "age": 20000,
+    "breed": "French Bulldog",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Duplex",
+    "picture": "images/a.jpg",
+    "age":18000,
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Duplex",
+    "picture": "images/c.jpg",
+    "age": 17000,
+    "breed": "Golden Retriever",
+    "location": "Jacksonwald, Palau"
+  }
+
+
+ 
+]
